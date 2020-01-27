@@ -7,7 +7,7 @@
 <br/>
 
 
-## Healthy Eating and Workout Plans 
+## Healthy Eating and Workout Plans :running:
 
 `Spring Boot`  `Thymeleaf`  `Maven`  `Ajax`  `JQuery`  `Java`  `Oracle Database`  `Mybatis`
 
